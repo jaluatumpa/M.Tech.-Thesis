@@ -23,5 +23,7 @@ Custom Game Environments: Environments for Tic-Tac-Toe and Othello implemented f
 Reinforcement Learning Agents:
 Q-Learning for small state-space games.
 Deep Q-Networks (DQN) for complex games with larger state spaces.
+
+
 Performance Analysis: Compare win rates of trained agents vs random players, random players vs trained agents, and random players vs random players
 Strategy Extraction: Analyze the agent's gameplay to identify actionable strategies.
